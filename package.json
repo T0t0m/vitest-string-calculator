@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/T0t0m/vitest-string-calculator/issues"
   },
-  "homepage": "https://github.com/T0t0m/vitest-string-calculator#readme"
+  "homepage": "https://github.com/T0t0m/vitest-string-calculator#readme",
+  "devDependencies": {
+    "vitest": "^4.1.9"
+  }
 }
